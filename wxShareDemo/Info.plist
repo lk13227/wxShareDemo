@@ -26,9 +26,7 @@
 			<key>CFBundleURLName</key>
 			<string>wx</string>
 			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>wx69294dc78b2d73ce</string>
-			</array>
+			<array/>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
